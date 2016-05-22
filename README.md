@@ -1,8 +1,8 @@
-Atul's Mini-C Compiler
-June 2, 2004
+Gaurav's Mini-C Compiler
+may 20,2016
 
 This is a compiler for a subset of the C programming language. It was
-written in Python during the spring of 2004.
+written in Python during the spring of 2016.
 
 The lexer and parser were constructed using Dave Beazley's PLY (Python
 Lex-Yacc), an open-source Python implementation of GNU
